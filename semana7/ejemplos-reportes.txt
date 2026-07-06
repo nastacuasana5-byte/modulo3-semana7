@@ -1,0 +1,9 @@
+{
+  "tipo": "servicios publico",
+  "descripcion": "razonamiento de agua"
+}
+
+Ejemplo 2:
+{
+  "tipo": "Ambiente",
+  "descripcion": "Acumulación de residuos en una zona comunitaria"
